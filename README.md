@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmr815&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmr815" /> </p>
 
-<p align="left"> <img src="./profile.png" alt="deepakmr815" /> </p>
+<p align="center"> <img src="./profile.png" alt="deepakmr815" /> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
