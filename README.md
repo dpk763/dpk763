@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-
-<p align="center"> <img src="./profile.png" alt="deepakmr815" /> </p>
-
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
 - ⚡ Fun fact **I am funny**
