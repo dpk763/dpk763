@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">🚀 MERN Stack Developer | Web Designer | Tech Educator</h3>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepakmr815&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmr815" />
