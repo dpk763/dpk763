@@ -8,8 +8,7 @@
 ---
 
 🔭 I’m currently working on **MERN Stack Projects**  
-🌱 Currently learning **Next.js, TypeScript & DevOps tools**  
-📫 How to reach me: **computertime1@gmail.com**  
+🌱 Currently learning **Next.js, TypeScript & DevOps tools**   
 ⚡ Fun fact: **Code is my caffeine ☕**  
 🎯 Goal: **Build meaningful tech that impacts lives.**
 
@@ -49,19 +48,6 @@
   <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" /></a>
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakmr815&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmr815&theme=react" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmr815&layout=compact&theme=react" alt="Top Languages" />
-</p>
 
 ---
 
